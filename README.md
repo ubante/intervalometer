@@ -1,0 +1,1 @@
+This is a working POC of a desktop intervalometer.
